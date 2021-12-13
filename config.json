@@ -1,0 +1,7 @@
+{
+    "name": "Golang学习之旅",
+    "introduction":"一个Java从业者的Golang学习之旅",
+     "path": {
+        "toc": "SUMMARY.md"
+        }
+}
