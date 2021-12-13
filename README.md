@@ -6,7 +6,7 @@
 
 ## 关于协议
 
-协议请阅读本项目中的[LICENSE](morningcat2018/studygoNote/blob/main/LICENSE)文件。
+协议请阅读本项目中的[LICENSE](https://github.com/morningcat2018/studygoNote/blob/main/LICENSE)文件。
 
 ## 版本信息
 书中内容及演示代码基于以下版本：
