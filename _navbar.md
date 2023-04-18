@@ -14,6 +14,7 @@
     * [搜集的示例代码](1.4)
 * 进阶技术
     * [make and new](1.5)
+    * [切片案例与总结笔记](1.6)
 * 链接到我
     * [github](https://github.com/morningcat2018)
     * [morningcat2018](https://morningcat2018.github.io/)
